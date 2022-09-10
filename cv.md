@@ -1,21 +1,21 @@
 # Artur Sanko #
-***
+
 ## Contacts: ##
 * **Phone:** +375 29 518 73 86
 * **E-mail:** sanko.artur84@gmail.com
 * **Github:** [ArSako](https://github.com/ArSako)
 * **Telegram:** [SankoA](https://t.me/SankoA)
-***
+
 ## About me ##
 I am 22 years old, I am from Grodno. I graduated from the university in the summer of 2022. I want to become a front-end developer. I think that my perseverance and discipline will help me in this.
-***
+
 ## Skills ##
 * **HTML5** 
 * **CSS3**
 * **JavaScript (Basics)**
 * **Git**
 * **VS Code**
-***
+
 ## Code Example: ##
 **Description**
 *A Narcissistic Number is a positive number which is the sum of its own digits, each raised to the power of the number of digits in a given base. In this Kata, we will restrict ourselves to decimal (base 10).*
@@ -40,10 +40,10 @@ I am 22 years old, I am from Grodno. I graduated from the university in the summ
         return (value == res) ? true : false;   
     }
 `
-***
+
 ## Education ##
 **Yanka Kupala State University of Grodno:** Faculty of Mathematics and Informatics 
-***
+
 ## Languages: ##
 * **Russian** - Native speaker
 * **English** - Elementary (Pre-Intermediate in process)
