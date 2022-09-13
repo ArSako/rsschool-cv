@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ArSako.github.io/rsschool-cv/
